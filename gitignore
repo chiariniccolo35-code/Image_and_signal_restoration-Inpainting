@@ -1,0 +1,18 @@
+# MATLAB
+*.asv
+*.m~
+*.mex*
+slprj/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# Temp
+*.tmp
+*.log
